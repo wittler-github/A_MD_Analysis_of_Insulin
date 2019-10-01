@@ -4,6 +4,8 @@ The scripts and data as pertains to a number of publications as relating to Mole
 
 Currently not uploaded all scripts, but can be added on demand.
 
+The data for The 1.5us MD simulation of solvated insulin are deposited also at https://welcome.gpcrmd.org/ 
+
 
 
 ### Support or Contact
