@@ -1,8 +1,8 @@
-## Welcome to this script and data repository for doctoral Thesis "A Molecular Dynamics Analysis of Insulin"
+## Welcome to this information, script and data repository for doctoral Thesis "A Molecular Dynamics Analysis of Insulin"
 
 Additional information, scripts and data as pertains to a number of publications as relating to Molecular Dynamics Analyses of Insulin or Analysis of related protein systems.
 
-Currently not uploaded all scripts or data, but can be added on demand.
+Currently not uploaded all scripts or data, but can be added on request.
 
 To be updated
 
@@ -16,9 +16,7 @@ Table 4.1: criteria is of course for rDA < 3.5 Å
 Table S6.4: Lower angles of course indicates for phi < 30 degrees.
 
 
-### Support or Contact
+### Support and Contact details
 
 Dr Henry Per Andreas Wittler
 henry.p.a.wittler@gmail.com
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
