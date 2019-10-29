@@ -18,6 +18,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-Small typo corrections for Thesis "A Molecular Dynamics Analysis of Insulin", all else should be consistent.
-Table 4.1: criteria is of course for rDA < 3.5 Å
+Small typo corrections for Thesis "A Molecular Dynamics Analysis of Insulin", all else should be consistent \n
+
+Table 4.1: criteria is of course for rDA < 3.5 Å.\n
 Table S6.4: Lower angles of course indicates for phi < 30 degrees.
