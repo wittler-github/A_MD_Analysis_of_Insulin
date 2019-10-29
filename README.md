@@ -14,3 +14,10 @@ Dr Henry Per Andreas Wittler
 henry.p.a.wittler@gmail.com
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+Small typo corrections for Thesis "A Molecular Dynamics Analysis of Insulin", all else should be consistent.
+Table 4.1: criteria is of course for rDA < 3.5 Å
+Table S6.4: Lower angles of course indicates for phi < 30 degrees.
