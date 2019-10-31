@@ -8,7 +8,7 @@ Typo or data corrections for Thesis "A Molecular Dynamics Analysis of Insulin", 
 
 Table 6.3, Figure S6.38: All HB criterias is of course calculated within each time-frame separetely; rDA < 3.5 Å & phi < 30, or 60, or 90 (not with ensemble average).
 
-Some figure's (5.10,5.11, 6.15, 6.16) have AD bold in |rAD|, where only the "r" should be bold due to being a vector, "A" and "D" just refers that distance is between Acceptor and Donor atom.
+Some figure's (5.10,5.11, 6.15, 6.16) have AD bold in rAD, where only the "r" should be bold due to being a vector, "A" and "D" just refers that distance is between Acceptor and Donor atom.
 
 
 
