@@ -1,12 +1,9 @@
 ## Welcome to this information, script and data repository for doctoral Thesis "A Molecular Dynamics Analysis of Insulin"
 
-## Thesis DOI
-Published Thesis link DOI will soon appear here
+#### Additional information, scripts and data as pertains to a number of publications as relating to Molecular Dynamics Analyses of Insulin or Analysis of related protein systems.
 -----------------------------------------------------------------
-
-### Additional information, scripts and data as pertains to a number of publications as relating to Molecular Dynamics Analyses of Insulin or Analysis of related protein systems.
-
-
+#### Thesis DOI
+Published Thesis link DOI will soon appear here
 
 -----------------------------------------------------------------
 
