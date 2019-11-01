@@ -27,7 +27,7 @@ The data for The 1.5us MD simulation of solvated insulin may be deposited also a
 
 ### Support and Contact details
 
-Dr Henry Per Andreas Wittler
+Dr Henry P.A. Wittler
 henry.p.a.wittler@gmail.com
 
 -----------------------------------------------------------------
