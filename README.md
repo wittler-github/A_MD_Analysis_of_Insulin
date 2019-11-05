@@ -11,6 +11,8 @@ Published Thesis link DOI will soon appear here
 
 #### Further explanation, typo and  data corrections for Thesis "A Molecular Dynamics Analysis of Insulin", all are however consistent, please email me if seeing any discrepancy:
 
+* p. 23 line 3,8(from below): Gutmann et al. refers here to reference 165 not 70.
+
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 #### Scripts & Data 
