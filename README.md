@@ -22,6 +22,8 @@ Published Thesis link DOI will soon appear here
 
 * p. 23 line 3,8(from below): Refers here to reference 165 not 70.
 
+* Fig. 5.28, 6.38 has angle \varphi are meant the same as non-bold.
+
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 #### Scripts & Data 
