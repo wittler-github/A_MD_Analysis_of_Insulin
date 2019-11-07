@@ -9,7 +9,7 @@ Published Thesis link DOI will soon appear here
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 
-#### Further explanation, typo and  data corrections for Thesis "A Molecular Dynamics Analysis of Insulin", all are however consistent, please email me if seeing any discrepancy:
+#### Further explanation, typo and  data corrections for Thesis "A Molecular Dynamics Analysis of Insulin", all is otherwise consistent, please email me if seeing any discrepancy:
 
 
 #### Further explanations or elaboration:
@@ -20,7 +20,7 @@ Published Thesis link DOI will soon appear here
 
 * p. x: Broken link "0" in sentence "Nomenclature for residue selection of domain atoms or analytical property. For atom, atom-selection and amino-acid name abbreviations and colouring, see 0" refers to Appendix A.
 
-* p. 23 line 3,8(from below): Gutmann et al. refers here to reference 165 not 70.
+* p. 23 line 3,8(from below): Refers here to reference 165 not 70.
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
