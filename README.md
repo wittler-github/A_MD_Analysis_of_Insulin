@@ -4,7 +4,7 @@
 -----------------------------------------------------------------
 ----------------------------------------------------------------- 
 #### Thesis DOI
-Published Thesis link DOI will soon appear here
+Published Thesis link DOI will soon appear here.
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
@@ -18,7 +18,7 @@ Published Thesis link DOI will soon appear here
 
 #### Typos or miswritten statements:
 
-* p. viii: Explanation should be not within parentheses for D, DH 
+* p. viii: Explanation should be not within parentheses for D, DH.
 
 * p. x: Broken link "0" in sentence "Nomenclature for residue selection of domain atoms or analytical property. For atom, atom-selection and amino-acid name abbreviations and colouring, see 0" refers to Appendix A.
 
@@ -28,7 +28,7 @@ Published Thesis link DOI will soon appear here
 
 * Fig. S5.28, S6.38 has angle \varphi are meant the same as non-bold.
 
-* Fig. S6.46: The comma in "(SC or MC,)" should be "(SC or MC),"
+* Fig. S6.46: The comma in "(SC or MC,)" should be "(SC or MC),".
 
 
 
