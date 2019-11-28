@@ -24,6 +24,8 @@ Published Thesis link DOI will soon appear here
 
 * p. 23 line 3,8(from below): Refers here to reference 165 not 70.
 
+* Table S3.1: coulomb-modifier for EM column I, is "Potential-shift-Verlet" (truncated by Word column spacing).
+
 * Fig. S5.28, S6.38 has angle \varphi are meant the same as non-bold.
 
 * Fig. S6.46: The comma in "(SC or MC,)" should be "(SC or MC),"
