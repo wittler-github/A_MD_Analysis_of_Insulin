@@ -24,7 +24,7 @@ Published Thesis link DOI will soon appear here
 
 * p. 23 line 3,8(from below): Refers here to reference 165 not 70.
 
-* Fig. 5.28, 6.38 has angle \varphi are meant the same as non-bold.
+* Fig. S5.28, S6.38 has angle \varphi are meant the same as non-bold.
 
 * Fig. S6.46: The comma in "(SC or MC,)" should be "(SC or MC),"
 
@@ -47,7 +47,7 @@ The data for The 1.5us MD simulation of solvated insulin may be deposited also a
 -----------------------------------------------------------------
 #### Support and Contact details
 
-Dr Henry P.A. Wittler
+Dr Henry P.A. Wittler ;
 henry.p.a.wittler@gmail.com
 
 -----------------------------------------------------------------
