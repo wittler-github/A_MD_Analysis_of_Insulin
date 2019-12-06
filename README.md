@@ -20,6 +20,8 @@ Published Thesis link DOI will soon appear here.
   
   Method S4.2.1.1: PDB 6HN5, Insulin has 25 residues in B-chain (not 26). 
                    PDB 6CE9, aCT* are designated for chain P (aCT for chain M).
+                   
+  Fig. S4.10(c): B-factors for CF6CEB(NO) vertical lines and label for chain A are meant to be coloured as red, and chain B as blue.
 
   Fig. S4.16, S4.17: Figure text aCT* should be aCT.
 
@@ -27,9 +29,7 @@ Published Thesis link DOI will soon appear here.
   In Fig. S4.19 F1* should be F1. And in Fig. S4.23 F1 should be F1*.
 
   Fig. S4:24: Figure text F1 should be F1*.
-  
-  Fig. S4.10(c): B-factors for CF6CEB(NO) vertical lines and label for chain A are meant to be coloured as red, and chain B as blue.
-
+ 
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
