@@ -18,7 +18,8 @@ Published Thesis link DOI will soon appear here.
 
 - These related figures show correct nomenclature and numbering, just a few typos in following method and figure captions:
   
-  Method S4.2.1.1: Insulin has 25 residues in B-chain (not 26) for PDB 6HN5. 
+  Method S4.2.1.1: PDB 6HN5, Insulin has 25 residues in B-chain (not 26). 
+                   PDB 6CE9 aCT* are designated for chain P (aCT for chain M).
 
   Fig. S4.16, S4.17: Figure text aCT* should be aCT.
 
