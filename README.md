@@ -18,6 +18,7 @@ Published Thesis link DOI will soon appear here.
 
 * Method S4.2.1.1: Insulin has 25 residues in B-chain (not 26) for PDB 6HN5. 
 
+* Fig. S4.19, S4.23: Phrase "(lime-green, chain A; ochre-brown, chain B)" miswritten, should be respective PDB chains K&L, N&O. Also in S4.23 F1 should be F1*.
 
 
 -----------------------------------------------------------------
