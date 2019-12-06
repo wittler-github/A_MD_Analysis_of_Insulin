@@ -16,14 +16,15 @@ Published Thesis link DOI will soon appear here.
 
 #### Miswritten text:
 
-*The Figures and tables show correct nomenclature and numbering just a few typos in following figures.
-- Method S4.2.1.1: Insulin has 25 residues in B-chain (not 26) for PDB 6HN5. 
+- The Figures and tables show correct nomenclature and numbering just a few typos in following figures.
+  Method S4.2.1.1: Insulin has 25 residues in B-chain (not 26) for PDB 6HN5. 
 
-- Fig. S4.16, S4.17: Figure text *aCT should be aCT.
+  Fig. S4.16, S4.17: Figure text *aCT should be aCT.
 
-- Fig. S4.19, S4.23: Phrase "(lime-green, chain A; ochre-brown, chain B)" miswritten, should be respective PDB chains K&L, N&O. In Fig. S4.19 F1* should be F1. And in Fig. S4.23 F1 should be F1*.
+  Fig. S4.19, S4.23: Phrase "(lime-green, chain A; ochre-brown, chain B)" miswritten, should be respective PDB chains K&L, N&O. 
+  In Fig. S4.19 F1* should be F1. And in Fig. S4.23 F1 should be F1*.
 
-- Fig. 4:24: Figure text F1 should be F1*.
+  Fig. 4:24: Figure text F1 should be F1*.
 
 
 -----------------------------------------------------------------
