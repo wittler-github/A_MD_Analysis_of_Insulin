@@ -23,7 +23,7 @@ Published Thesis link DOI will soon appear here.
                    
   Fig. S4.10(c): B-factors for CF6CEB(NO) vertical lines and label for chain A are meant to be coloured as red, and chain B as blue.
 
-  Fig. S4.16, S4.17: Figure text aCT* should be aCT.
+  Fig. S4.14, S4.16, S4.17: Figure text aCT* should be aCT.
 
   Fig. S4.19, S4.23: Phrase "(lime-green, chain A; ochre-brown, chain B)" miswritten, should be respective PDB chains K&L, N&O. 
   In Fig. S4.19 F1* should be F1. And in Fig. S4.23 F1 should be F1*.
