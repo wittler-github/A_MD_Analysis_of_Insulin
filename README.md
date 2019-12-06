@@ -16,7 +16,7 @@ Published Thesis link DOI will soon appear here.
 
 #### Miswritten text (unseen before publishing; bear in mind it's a 269 page document with intricate details)
 
-- These related figures and tables show correct nomenclature and numbering just a few typos in following text:
+- These related figures show correct nomenclature and numbering just a few typos in following text:
   
   Method S4.2.1.1: Insulin has 25 residues in B-chain (not 26) for PDB 6HN5. 
 
