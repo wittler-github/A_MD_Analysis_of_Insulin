@@ -14,7 +14,7 @@ Published Thesis link DOI will soon appear here.
 
 #### Further explanations or elaboration:
 
-#### Miswritten statements:
+#### Miswritten text:
 
 * Method S4.2.1.1: Insulin has 25 residues in B-chain (not 26) for PDB 6HN5. 
 
