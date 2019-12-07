@@ -22,7 +22,7 @@ Published Thesis link DOI will soon appear here.
                    
   Fig. S4.10(c): For CF6CEB(NO) vertical lines and label for chain A are to be coloured as red, and chain B as blue.
 
-  Fig. S4.14, S4.16, S4.17, S.4.24: The label and domain names are as written in figures, part of captions has wrong details.
+  Fig. S4.13, S4.14, S4.16, S4.17, S.4.24: The label and domain names are as written in figures, part of captions has wrong details.
 
   Fig. S4.19, S4.23: Phrase "(lime-green, chain A; ochre-brown, chain B)" miswritten, should be respective PDB chains K&L, N&O. 
   In Fig. S4.19 F1* should be F1. And in Fig. S4.23 F1 should be F1*.
