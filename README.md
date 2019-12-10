@@ -3,8 +3,9 @@
 #### Additional information, scripts and data as pertains to a number of publications as relating to Molecular Dynamics Analyses of Insulin or Analysis of related protein systems.
 -----------------------------------------------------------------
 ----------------------------------------------------------------- 
-### DOI of Thesis
-http://arrow.latrobe.edu.au:8080/vital/access/manager/Repository/latrobe:43396 
+### Link to Thesis
+http://hdl.handle.net/1959.9/568798
+
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
