@@ -18,7 +18,7 @@ http://arrow.latrobe.edu.au:8080/vital/access/manager/Repository/latrobe:43396
 
 - Figure 7.1 were made in VMD with placing the PDB structures in the centre of a square bilayer membrane being centrered in a rectangular box, the angle of view is hence seen from one of the rectangle sides, with half-membrane facing viewer is transparent, the other half-membrane in atomic representation (carbon green, hydrogen white, polar/charged atoms in purple). 
 
-#### Miswritten text (unseen before publishing; note that it is a 269 page document with intricate details; all is otherwise consistent, please email me if seeing any discrepancy)
+#### Typographical errors (unseen before publishing; note that it is a 269 page document with intricate details; all is otherwise consistent, please email me if seeing any discrepancy)
 
 - These related figures show correct nomenclature and numbering, just a few typos in following method and figure captions text:
   
