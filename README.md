@@ -19,17 +19,9 @@ http://hdl.handle.net/1959.9/568798
 
 - Figure 7.1 were made in VMD with placing the PDB structures in the centre of a square bilayer membrane being centrered in a rectangular box, the angle of view is hence seen from one of the rectangle sides, with half-membrane facing viewer is transparent, the other half-membrane in atomic representation (carbon green, hydrogen white, polar/charged atoms in purple). 
 
-#### Typographical errors (unseen before publishing; note that it is a 269 page document with intricate details; all is otherwise consistent, please email me if seeing any discrepancy)
+#### Typographical errors ; all is otherwise consistent, please email me if seeing any discrepancy.
 
-- These related figures show correct nomenclature and numbering, just a few typos in following method and figure captions text:
-  
-  Method S4.2.1.1: PDB 6HN5, Insulin has 25 residues in B-chain (not 26). PDB 6CE9, aCT* are designated for chain P (aCT for chain M).
-                   
-  Fig. S4.10(c): For CF6CEB(NO) vertical lines and label for chain A are to be coloured as red, and chain B as blue.
 
-  Fig. S4.13, S4.14, S4.16, S4.17, S.4.24: The colour, label and domain names are correctly written in figure-labels, however part of captions has wrong details of which receptor monomer (marked with or without asterisk).
-
-  Fig. S4.19, S4.23: Phrase "(lime-green, chain A; ochre-brown, chain B)" miswritten, should be respective PDB chains K&L, N&O. In Fig. S4.19 F1* should be F1. And in Fig. S4.23 F1 should be F1*.
 
  
 -----------------------------------------------------------------
