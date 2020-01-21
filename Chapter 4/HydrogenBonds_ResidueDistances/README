@@ -1,0 +1,37 @@
+#######
+
+hbonds_SbHb_Distances.tcl -> VMD
+
+Calculates HBs and various distances from a structure of insulin dimer from coordinate file "renumberedBDvmdwritten4ins7.gro" outputs them in /Results/datToPlotHB
+
+#######
+
+SortCountHB.py -> ipython
+
+Sorts hydrogen bonds from /Results/datToPlotHB into /Results/SortCountHB as indicated in the executable and directory
+
+#######
+
+plotHBmatrixM12.py -> ipython
+
+Sorts the sorted HBs into a matrix and graphs it via matplotlib
+
+#######
+
+1_structure_CAGC_STAT_all_filenames.py -> ipython
+
+Calculates average and standard deviation of the various "geometric centre of selection of atoms" distances outputs into "QFCstat_all_filenames.dat"
+
+####### 
+
+plotRDmatrixM12.py -> ipython
+
+Graphs a matrix from the sorted information given in "QFCstat_all_filenames.dat"
+
+
+
+
+
+
+
+
