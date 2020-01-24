@@ -1,8 +1,14 @@
 #######
 
+renumberedBDvmdwritten4ins7.gro
+
+GRO format structure file of the crystal dimer unit M1, M2.
+
+#######
+
 hbonds_SbHb_Distances.tcl -> VMD
 
-Calculates HBs and various distances from a structure of insulin dimer from coordinate file "renumberedBDvmdwritten4ins7.gro" outputs them in /Results/datToPlotHB
+Calculates HBs (example here "\varphi" < 90 degrees) and various "geometric centre of selection of atoms" distances from a structure of insulin dimer from coordinate file "renumberedBDvmdwritten4ins7.gro" outputs them in /Results/datToPlotHB
 
 #######
 
