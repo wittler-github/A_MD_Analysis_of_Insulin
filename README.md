@@ -3,7 +3,7 @@
 #### Additional information, scripts and data as pertains to a number of publications as relating to Molecular Dynamics Analyses of Insulin or Analysis of related protein systems.
 -----------------------------------------------------------------
 ----------------------------------------------------------------- 
-### Link to Thesis
+### Link to Thesis (Please cite this thesis when deriving information or when using the code as is uploaded on this site)
 http://hdl.handle.net/1959.9/568798
 
 
