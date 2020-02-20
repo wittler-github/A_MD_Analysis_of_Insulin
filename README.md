@@ -30,7 +30,7 @@ http://hdl.handle.net/1959.9/568798
 
 Currently not uploaded all scripts or data, but can be added on request.
 
-The data for The 1.5us MD simulation of solvated insulin may be deposited also at https://welcome.gpcrmd.org/ 
+The data for the 1.5us MD simulation of solvated insulin may be deposited also at https://welcome.gpcrmd.org/ 
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
@@ -43,5 +43,12 @@ The data for The 1.5us MD simulation of solvated insulin may be deposited also a
 
 Dr Henry P.A. Wittler ;
 henry.p.a.wittler@gmail.com
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+### Financial or collaboration support
+
+I am a believer in economic balance, that everyone deserves their fair share of funds for doing benign work. This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS); however the completion, further article-writing, continuation and development of this research here at Github, is out of my own pocket. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. 
 
 -----------------------------------------------------------------
