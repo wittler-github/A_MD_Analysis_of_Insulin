@@ -30,8 +30,6 @@ http://hdl.handle.net/1959.9/568798
 
 Currently not uploaded all scripts or data, but can be added on request.
 
-The data for the 1.5us MD simulation of solvated insulin may be deposited also at https://welcome.gpcrmd.org/ 
-
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 
