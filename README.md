@@ -47,6 +47,7 @@ henry.p.a.wittler@gmail.com
 
 ### Financial or collaboration support
 
-I am a believer in economic balance, that everyone deserves their fair share of funds for doing benign work. This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS); however the completion, further article-writing, continuation and development of this research here at Github, is out of my own pocket. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. 
+I am a believer in economic balance, that everyone deserves their fair share of funds for doing benign work. This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS) and my supervisor made very benevolent support and giving of his time throughout the many years to complete this thesis. 
+However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. 
 
 -----------------------------------------------------------------
