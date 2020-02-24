@@ -37,6 +37,13 @@ Currently not uploaded all scripts or data, but can be added on request.
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
+
+### Acknowledgements
+
+Missed in thesis (Australia's National Computational Infrastructure (NCI) also contributed to chap. 6 GMX simulations, by continuing after VPAC (Victorias Partnership for advanced computing) was de-commissioned.)
+
+
+
 ### Support and Contact details
 
 Dr Henry P.A. Wittler ;
