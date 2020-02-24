@@ -1,0 +1,6 @@
+#!/bin/sh
+
+for f in *.svg; do
+  inkscape "$f" --export-emf="${f%.*}".emf
+done
+
