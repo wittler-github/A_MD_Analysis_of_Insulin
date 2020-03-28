@@ -19,7 +19,7 @@ http://hdl.handle.net/1959.9/568798
 
 - Figure 7.1 were made in VMD with placing the PDB structures in the centre of a square bilayer membrane being centrered in a rectangular box, the angle of view is hence seen from one of the rectangle sides, with half-membrane facing viewer is transparent, the other half-membrane in atomic representation (carbon green, hydrogen white, polar/charged atoms in purple). 
 
-#### Typographical errors ; all is otherwise consistent, please email me if seeing any discrepancy.
+#### There are some minor typographical errors in thesis, which most are fairly obvious (unseen before publishing; note that it is a 269 page document with very intricate details); I am proofreading thesis again for writing articles etc, if corrected version the same URL and citation would apply anyway; please email me if seeing any discrepancy that I might not have seen.
 
 
 
@@ -54,7 +54,8 @@ henry.p.a.wittler@gmail.com
 
 ### Financial or collaboration support
 
-I am a believer in economic balance, that everyone deserves their fair share of funds for doing benign work. This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS) and my supervisor made very benevolent support and giving of his time throughout the many years to complete this thesis. 
-However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. 
+This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS) and my supervisor made very benevolent support and giving of his time throughout the many years to complete this thesis. This financial support from La Trobe administration and my supervisor and everyone else who has contributed, I am utmost grateful for.
+
+However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. In general, I am a believer in economic balance, that everyone deserves their fair share of funds for doing benign work.
 
 -----------------------------------------------------------------
