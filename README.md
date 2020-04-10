@@ -8,16 +8,16 @@ http://hdl.handle.net/1959.9/568798
 
 
 #### Citation information for Thesis (Please cite this thesis when deriving information or when using the code as is uploaded on this site)
-Reference Type:  Thesis \n
-Author: Wittler, Henry Per Andreas \n
-Year: 2019 \n
-Title: A Molecular Dynamics Analysis of Insulin \n
-Academic Department: Department of Chemistry and Physics \n
-University: La Trobe University \n
-Degree: Doctor of Philosophy \n
-Number of Pages: 269 \n
-Date: 06.07.2019 \n
-URL: http://hdl.handle.net/1959.9/568798 \n
+Reference Type:  Thesis  
+Author: Wittler, Henry Per Andreas  
+Year: 2019  
+Title: A Molecular Dynamics Analysis of Insulin  
+Academic Department: Department of Chemistry and Physics  
+University: La Trobe University  
+Degree: Doctor of Philosophy  
+Number of Pages: 269  
+Date: 06.07.2019  
+URL: http://hdl.handle.net/1959.9/568798  
 
 
 -----------------------------------------------------------------
