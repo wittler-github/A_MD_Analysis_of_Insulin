@@ -58,14 +58,6 @@ URL: http://hdl.handle.net/1959.9/568798
 Missed in thesis (Australia's National Computational Infrastructure (NCI) also contributed to chap. 6 GMX simulations, by continuing after VPAC (Victorias Partnership for advanced computing) was de-commissioned.)
 
 
-
-### Contact details
-
-Dr Henry P.A. Wittler ;
-henry.p.a.wittler@gmail.com
-
-Can contact me also at Researchgate or Linkedin
-
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 
@@ -76,3 +68,11 @@ This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPR
 However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. I am currently looking for part-time or full-time employment in this or a related area.
 
 -----------------------------------------------------------------
+-----------------------------------------------------------------
+
+### Contact details
+
+Dr Henry P.A. Wittler ;
+henry.p.a.wittler@gmail.com
+
+Can contact me also at Researchgate or Linkedin
