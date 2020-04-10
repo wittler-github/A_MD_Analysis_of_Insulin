@@ -3,7 +3,7 @@
 #### Additional information, scripts and data as pertains to a number of publications as relating to Molecular Dynamics Analyses of Insulin or Analysis of related protein systems.
 -----------------------------------------------------------------
 ----------------------------------------------------------------- 
-### Link to Thesis (downloadable large file 78 mb)
+### Thesis published at La Trobe University (where one can download a large PDF-file of 78 mb)
 http://hdl.handle.net/1959.9/568798
 
 
