@@ -3,8 +3,22 @@
 #### Additional information, scripts and data as pertains to a number of publications as relating to Molecular Dynamics Analyses of Insulin or Analysis of related protein systems.
 -----------------------------------------------------------------
 ----------------------------------------------------------------- 
-### Link to Thesis (Please cite this thesis when deriving information or when using the code as is uploaded on this site)
+### Link to Thesis (downloadable large file 78 mb)
 http://hdl.handle.net/1959.9/568798
+
+
+#### Citation information for Thesis (Please cite this thesis when deriving information or when using the code as is uploaded on this site)
+Reference Type:  Thesis
+
+Author: Wittler, Henry Per Andreas
+Year: 2019
+Title: A Molecular Dynamics Analysis of Insulin
+Academic Department: Department of Chemistry and Physics
+University: La Trobe University
+Degree: Doctor of Philosophy
+Number of Pages: 269
+Date: 06.07.2019
+URL: http://hdl.handle.net/1959.9/568798 
 
 
 -----------------------------------------------------------------
@@ -19,14 +33,14 @@ http://hdl.handle.net/1959.9/568798
 
 - Figure 7.1 were made in VMD with placing the PDB structures in the centre of a square bilayer membrane being centrered in a rectangular box, the angle of view is hence seen from one of the rectangle sides, with half-membrane facing viewer is transparent, the other half-membrane in atomic representation (carbon green, hydrogen white, polar/charged atoms in purple). 
 
-#### There are some minor typographical errors in thesis, which most are fairly obvious (unseen before publishing; note that it is a 269 page document with very intricate details); I am proofreading thesis again for writing articles etc, if corrected version the same URL and citation would apply anyway; please email me if seeing any discrepancy that I might not have seen.
+#### Like in most books, there are some fairly minor typographical errors in thesis, which most are fairly obvious (unseen before publishing; note that it is a 269 page document with very intricate details); I am proofreading thesis again for writing articles etc, if corrected version the same URL and citation would apply anyway; please email me if seeing any discrepancy that I against all odds might not have seen.
 
 
 
  
 -----------------------------------------------------------------
 -----------------------------------------------------------------
-### Scripts & Data 
+### Scripts & Data (This github page is not really meant for further development here; rather about sharing it so other may benefit from adapting the code to their benevolent work)
 
 Currently not uploaded all scripts or data, but can be added on request.
 
@@ -54,8 +68,8 @@ henry.p.a.wittler@gmail.com
 
 ### Financial or collaboration support
 
-This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS) and my supervisor made very benevolent support and giving of his time throughout the many years to complete this thesis. This financial support from La Trobe administration and my supervisor and everyone else who has contributed, I am utmost grateful for.
+This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS) and my supervisor made very benevolent support and giving of his time throughout the many years to complete this thesis. This financial support from La Trobe administration and my supervisor and everyone else who has contributed, I am very much grateful for.
 
-However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. In general, I am a believer in economic balance, that everyone deserves their fair share of funds for doing benign work.
+However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. I am currently looking for part-time or full-time employment in this or a related area.
 
 -----------------------------------------------------------------
