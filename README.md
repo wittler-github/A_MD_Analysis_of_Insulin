@@ -32,16 +32,18 @@ URL: http://hdl.handle.net/1959.9/568798
 
 - Figure 7.1 were made in VMD with placing the PDB structures in the centre of a square bilayer membrane being centrered in a rectangular box, the angle of view is hence seen from one of the rectangle sides, with half-membrane facing viewer is transparent, the other half-membrane in atomic representation (carbon green, hydrogen white, polar/charged atoms in purple). 
 
-#### Like in most books, there are some fairly minor typographical errors in thesis, which most are fairly obvious (unseen before publishing; note that it is a 269 page document with very intricate details); I am proofreading thesis again for writing articles etc, if corrected version the same URL and citation would apply anyway; please email me if seeing any discrepancy that I against all odds might not have seen.
+#### Like in most books, there are some fairly minor typographical errors in thesis, which most are fairly obvious (unseen before publishing; note that it is a 269 page document with very intricate details); I am proofreading thesis again for writing articles etc, if corrected version the same URL and citation would apply anyway; please email me if seeing any discrepancy that I might not have seen.
 
 
 
  
 -----------------------------------------------------------------
 -----------------------------------------------------------------
-### Scripts & Data (This github page is not really meant for further development here; rather about sharing it so other may benefit from adapting the code to their benevolent work)
+### Scripts & Data 
 
-Currently not uploaded all scripts or data, but can be added on request.
+#### This github page is not really meant for further development here; rather about sharing it so that others may benefit from adapting the code to their benevolent work
+
+#### Currently not uploaded all scripts or data, but can be added on request.
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
@@ -57,10 +59,12 @@ Missed in thesis (Australia's National Computational Infrastructure (NCI) also c
 
 
 
-### Support and Contact details
+### Contact details
 
 Dr Henry P.A. Wittler ;
 henry.p.a.wittler@gmail.com
+
+Can contact me also at Researchgate or Linkedin
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
