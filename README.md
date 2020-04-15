@@ -9,8 +9,8 @@ http://hdl.handle.net/1959.9/568798
 
 #### Citation information for Thesis (Please cite this thesis when deriving information or when using the code as is uploaded on this site).
 Reference Type:  Thesis  
-Author: Wittler, Henry Per Andreas 
-Supervisor: Brian J. Smith 
+Author: Wittler, Henry Per Andreas   
+Supervisor: Brian J. Smith  
 Year: 2019  
 Title: A Molecular Dynamics Analysis of Insulin  
 Academic Department: Department of Chemistry and Physics  
