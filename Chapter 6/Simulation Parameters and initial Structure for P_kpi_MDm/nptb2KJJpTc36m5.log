@@ -1,0 +1,120 @@
+2015-12-16 05:05:02Z Wed
+trifid111
+Run GROMACS
+GROMACS:    gmx grompp, VERSION 5.0.4
+
+GROMACS is written by:
+Emile Apol         Rossen Apostolov   Herman J.C. Berendsen Par Bjelkmar       
+Aldert van Buuren  Rudi van Drunen    Anton Feenstra     Sebastian Fritsch  
+Gerrit Groenhof    Christoph Junghans Peter Kasson       Carsten Kutzner    
+Per Larsson        Justin A. Lemkul   Magnus Lundborg    Pieter Meulenhoff  
+Erik Marklund      Teemu Murtola      Szilard Pall       Sander Pronk       
+Roland Schulz      Alexey Shvetsov    Michael Shirts     Alfons Sijbers     
+Peter Tieleman     Christian Wennberg Maarten Wolf       
+and the project leaders:
+Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2014, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx grompp, VERSION 5.0.4
+Executable:   /usr/local/gromacs/5.0.4-openmpi-gcc/bin/gmx
+Library dir:  /usr/local/gromacs/5.0.4-openmpi-gcc/share/gromacs/top
+Command line:
+  gmx grompp -f npt_B.mdp -c nvt.gro -t nvt.cpt -p topol.top -po npt_Bout.mdp -o npt_B.tpr
+
+Ignoring obsolete mdp entry 'title'
+Setting the LD random seed to 4227937235
+Generated 71611 of the 71631 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 1
+Generated 45719 of the 71631 1-4 parameter combinations
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+Excluding 2 bonded neighbours molecule type 'SOL'
+Excluding 1 bonded neighbours molecule type 'NA'
+Excluding 1 bonded neighbours molecule type 'CL'
+Removing all charge groups because cutoff-scheme=Verlet
+The center of mass of the position restraint coord's is  2.740  2.721  2.733
+The center of mass of the position restraint coord's is  2.740  2.721  2.733
+Number of degrees of freedom in T-Coupling group Protein is 1976.81
+Number of degrees of freedom in T-Coupling group non-Protein is 29859.19
+Reading Coordinates, Velocities and Box size from old trajectory
+Will read whole trajectory
+Last frame         -1 time  100.000   
+Using frame at t = 100 ps
+Starting time for run is 0 ps
+Estimate for the relative computational load of the PME mesh part: 0.24
+
+gcq#45: "I Wonder, Should I Get Up..." (J. Lennon)
+
+turning H bonds into constraints...
+turning H bonds into constraints...
+turning H bonds into constraints...
+turning H bonds into constraints...
+Analysing residue names:
+There are:    51    Protein residues
+There are:  4968      Water residues
+There are:    18        Ion residues
+Analysing Protein...
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 310 K
+Calculated rlist for 1x1 atom pair-list as 1.235 nm, buffer size 0.035 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 56x56x56, spacing 0.097 0.097 0.097
+This run will generate roughly 147 Mb of data
+GROMACS:    gmx mdrun, VERSION 5.0.4
+
+GROMACS is written by:
+Emile Apol         Rossen Apostolov   Herman J.C. Berendsen Par Bjelkmar       
+Aldert van Buuren  Rudi van Drunen    Anton Feenstra     Sebastian Fritsch  
+Gerrit Groenhof    Christoph Junghans Peter Kasson       Carsten Kutzner    
+Per Larsson        Justin A. Lemkul   Magnus Lundborg    Pieter Meulenhoff  
+Erik Marklund      Teemu Murtola      Szilard Pall       Sander Pronk       
+Roland Schulz      Alexey Shvetsov    Michael Shirts     Alfons Sijbers     
+Peter Tieleman     Christian Wennberg Maarten Wolf       
+and the project leaders:
+Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2014, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx mdrun, VERSION 5.0.4
+Executable:   /usr/local/gromacs/5.0.4-openmpi-gcc/bin/gmx
+Library dir:  /usr/local/gromacs/5.0.4-openmpi-gcc/share/gromacs/top
+Command line:
+  gmx mdrun -deffnm npt_B -ntomp 16 -ntmpi 1
+
+Reading file npt_B.tpr, VERSION 5.0.4 (single precision)
+Changing nstlist from 10 to 20, rlist from 1.2 to 1.224
+
+Using 1 MPI thread
+Using 16 OpenMP threads 
+starting mdrun 'Protein in water'
+200000 steps,    400.0 ps.
+
+Writing final coordinates.
+
+               Core t (s)   Wall t (s)        (%)
+       Time:    15892.610     1040.877     1526.8
+                 (ns/day)    (hour/ns)
+Performance:       33.203        0.723
+
+gcq#409: "In the processing of models we must be especially cautious of the human weakness to think that models can be verified or validated. Especially one's own." (Roald Hoffmann)
+
+2015-12-16 05:22:25Z Wed

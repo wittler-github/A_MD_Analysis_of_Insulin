@@ -1,0 +1,4 @@
+All in and output files for simulating MD 1500 ns on a PBC HPC setup. The particular simulation is system P_kpi_m (that is solvated insulin 3x500 ns simulations continuing from each other). See thesis for further elaboration.
+
+
+Omitting here the large .tpr and .trr files due to taking up too much space

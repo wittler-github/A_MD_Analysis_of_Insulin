@@ -1,0 +1,49 @@
+title		= NVT equilibration
+define		= -DPOSRES	; position-restrain the protein
+
+; Run parameters
+integrator   	= md		
+nsteps       	= 50000 	; 5e+4*0.002 = 100 [ps]
+dt         	= 0.002    	
+
+; Output control
+nstxout  	= 500		; 500*0.002 = 1 [ps]	
+nstvout      	= 500		
+nstenergy     	= 500		
+nstlog        	= 500		
+
+; Bond parameters
+continuation	= no		; first dynamics run
+constraints  	= h-bonds	
+constraint_algorithm = lincs	
+
+; Neighbour searching
+cutoff-scheme	= Verlet
+ns_type       	= grid	
+pbc		= xyz		
+rlist           = 1.2	
+
+; Electrostatics		
+rcoulomb     	= 1.2		
+rvdw            = 1.2			
+rvdw_switch     = 1.0
+coulombtype     = PME		
+pme_order       = 6		
+fourierspacing  = 0.1	
+vdw-type        = Cut-off
+vdw-modifier    = force-switch	
+DispCorr	= no
+
+; Temperature coupling is on
+tcoupl          = V-rescale	
+tc-grps         = Protein Non-Protein	
+tau_t           = 0.1     0.1	
+ref_t           = 310     310
+
+; Pressure coupling is off
+pcoupl        	= no
+	  	
+; Velocity generation is on
+gen_vel       	= yes	
+gen_temp      	= 310		
+gen_seed    	= 123456

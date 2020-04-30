@@ -1,0 +1,31 @@
+title               = Minimization
+
+; Run parameters
+integrator          = steep		; Alg. Steepest descent for EM	
+emtol               = 100		; Stop min. when the max force < 100 [kJ..]
+emstep              = 0.01		; Energy step size	
+dt                  = 0.001		
+nsteps              = 50000		; 5e+4*0.001 = 50 [ps]
+
+; Bond parameters
+constraints         = none
+constraint_algorithm = lincs
+
+; Neighbour searching
+cutoff-scheme       = Verlet
+ns_type             = grid
+pbc		    = xyz
+rlist               = 1.2
+
+; Electrostatics
+rcoulomb            = 1.2
+rvdw                = 1.2
+rvdw_switch    	    = 1.0
+coulombtype	    = PME
+pme_order           = 6
+fourierspacing      = 0.1
+vdw-type       	    = Cut-off
+vdw-modifier        = force-switch
+DispCorr	    = no	
+		
+

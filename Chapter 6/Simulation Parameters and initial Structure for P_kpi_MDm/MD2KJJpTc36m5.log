@@ -1,0 +1,410 @@
+2015-12-16 04:59:03Z Wed
+trifid156
+Run GROMACS
+GROMACS:    gmx pdb2gmx, VERSION 5.0.4
+
+GROMACS is written by:
+Emile Apol         Rossen Apostolov   Herman J.C. Berendsen Par Bjelkmar       
+Aldert van Buuren  Rudi van Drunen    Anton Feenstra     Sebastian Fritsch  
+Gerrit Groenhof    Christoph Junghans Peter Kasson       Carsten Kutzner    
+Per Larsson        Justin A. Lemkul   Magnus Lundborg    Pieter Meulenhoff  
+Erik Marklund      Teemu Murtola      Szilard Pall       Sander Pronk       
+Roland Schulz      Alexey Shvetsov    Michael Shirts     Alfons Sijbers     
+Peter Tieleman     Christian Wennberg Maarten Wolf       
+and the project leaders:
+Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2014, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx pdb2gmx, VERSION 5.0.4
+Executable:   /usr/local/gromacs/5.0.4-openmpi-gcc/bin/gmx
+Library dir:  /usr/local/gromacs/5.0.4-openmpi-gcc/share/gromacs/top
+Command line:
+  gmx pdb2gmx -f 2KJJpTc36m5.pdb -o gmx.gro -ignh -merge all -water tip3p -ff charmm36-mar2014-NLG-NLE
+
+Opening force field file ./charmm36-mar2014-NLG-NLE.ff/merged.r2b
+All occupancies are one
+Opening force field file ./charmm36-mar2014-NLG-NLE.ff/atomtypes.atp
+Atomtype 1Atomtype 2Atomtype 3Atomtype 4Atomtype 5Atomtype 6Atomtype 7Atomtype 8Atomtype 9Atomtype 10Atomtype 11Atomtype 12Atomtype 13Atomtype 14Atomtype 15Atomtype 16Atomtype 17Atomtype 18Atomtype 19Atomtype 20Atomtype 21Atomtype 22Atomtype 23Atomtype 24Atomtype 25Atomtype 26Atomtype 27Atomtype 28Atomtype 29Atomtype 30Atomtype 31Atomtype 32Atomtype 33Atomtype 34Atomtype 35Atomtype 36Atomtype 37Atomtype 38Atomtype 39Atomtype 40Atomtype 41Atomtype 42Atomtype 43Atomtype 44Atomtype 45Atomtype 46Atomtype 47Atomtype 48Atomtype 49Atomtype 50Atomtype 51Atomtype 52Atomtype 53Atomtype 54Atomtype 55Atomtype 56Atomtype 57Atomtype 58Atomtype 59Atomtype 60Atomtype 61Atomtype 62Atomtype 63Atomtype 64Atomtype 65Atomtype 66Atomtype 67Atomtype 68Atomtype 69Atomtype 70Atomtype 71Atomtype 72Atomtype 73Atomtype 74Atomtype 75Atomtype 76Atomtype 77Atomtype 78Atomtype 79Atomtype 80Atomtype 81Atomtype 82Atomtype 83Atomtype 84Atomtype 85Atomtype 86Atomtype 87Atomtype 88Atomtype 89Atomtype 90Atomtype 91Atomtype 92Atomtype 93Atomtype 94Atomtype 95Atomtype 96Atomtype 97Atomtype 98Atomtype 99Atomtype 100Atomtype 101Atomtype 102Atomtype 103Atomtype 104Atomtype 105Atomtype 106Atomtype 107Atomtype 108Atomtype 109Atomtype 110Atomtype 111Atomtype 112Atomtype 113Atomtype 114Atomtype 115Atomtype 116Atomtype 117Atomtype 118Atomtype 119Atomtype 120Atomtype 121Atomtype 122Atomtype 123Atomtype 124Atomtype 125Atomtype 126Atomtype 127Atomtype 128Atomtype 129Atomtype 130Atomtype 131Atomtype 132Atomtype 133Atomtype 134Atomtype 135Atomtype 136Atomtype 137Atomtype 138Atomtype 139Atomtype 140Atomtype 141Atomtype 142Atomtype 143Atomtype 144Atomtype 145Atomtype 146Atomtype 147Atomtype 148Atomtype 149Atomtype 150Atomtype 151Atomtype 152Atomtype 153Atomtype 154Atomtype 155Atomtype 156Atomtype 157Atomtype 158Atomtype 159Atomtype 160Atomtype 161Atomtype 162Atomtype 163Atomtype 164Atomtype 165Atomtype 166Atomtype 167Atomtype 168Atomtype 169Atomtype 170Atomtype 171Atomtype 172Atomtype 173Atomtype 174Atomtype 175Atomtype 176Atomtype 177Atomtype 178Atomtype 179Atomtype 180Atomtype 181Atomtype 182Atomtype 183Atomtype 184Atomtype 185Atomtype 186Atomtype 187Atomtype 188Atomtype 189Atomtype 190Atomtype 191Atomtype 192Atomtype 193Atomtype 194Atomtype 195Atomtype 196Atomtype 197Atomtype 198Atomtype 199Atomtype 200Atomtype 201Atomtype 202Atomtype 203Atomtype 204Atomtype 205Atomtype 206Atomtype 207Atomtype 208Atomtype 209Atomtype 210Atomtype 211Atomtype 212Atomtype 213Atomtype 214Atomtype 215Atomtype 216Atomtype 217Atomtype 218Atomtype 219Atomtype 220Atomtype 221Atomtype 222Atomtype 223Atomtype 224Atomtype 225Atomtype 226Atomtype 227Atomtype 228Atomtype 229Atomtype 230Atomtype 231Atomtype 232Atomtype 233Atomtype 234Atomtype 235Atomtype 236Atomtype 237Atomtype 238Atomtype 239Atomtype 240Atomtype 241Atomtype 242Atomtype 243Atomtype 244Atomtype 245Atomtype 246Atomtype 247Atomtype 248Atomtype 249Atomtype 250Atomtype 251Atomtype 252Atomtype 253Atomtype 254Atomtype 255Atomtype 256Atomtype 257Atomtype 258Atomtype 259Atomtype 260Atomtype 261Atomtype 262Atomtype 263Atomtype 264Atomtype 265Atomtype 266Atomtype 267Atomtype 268Atomtype 269Atomtype 270Atomtype 271Atomtype 272Atomtype 273Atomtype 274Atomtype 275Atomtype 276Atomtype 277Atomtype 278Atomtype 279Atomtype 280Atomtype 281Atomtype 282Atomtype 283Atomtype 284Atomtype 285Atomtype 286Atomtype 287Atomtype 288Atomtype 289Atomtype 290Atomtype 291Atomtype 292Atomtype 293Atomtype 294Atomtype 295Atomtype 296Atomtype 297Atomtype 298Atomtype 299Atomtype 300Atomtype 301Atomtype 302Atomtype 303Atomtype 304Atomtype 305Atomtype 306Atomtype 307Atomtype 308Atomtype 309Atomtype 310Atomtype 311Atomtype 312Atomtype 313Atomtype 314Atomtype 315Atomtype 316Atomtype 317Atomtype 318Atomtype 319Atomtype 320Atomtype 321Atomtype 322Atomtype 323Atomtype 324Atomtype 325Atomtype 326Atomtype 327Atomtype 328Atomtype 329Atomtype 330Atomtype 331Atomtype 332Atomtype 333Atomtype 334Atomtype 335Atomtype 336Atomtype 337Atomtype 338Atomtype 339Atomtype 340Atomtype 341Atomtype 342Atomtype 343Atomtype 344Atomtype 345Atomtype 346Atomtype 347Atomtype 348Atomtype 349Atomtype 350Atomtype 351Atomtype 352Atomtype 353Atomtype 354Atomtype 355Atomtype 356Atomtype 357Atomtype 358Atomtype 359Atomtype 360Atomtype 361Atomtype 362Atomtype 363Atomtype 364Atomtype 365Atomtype 366Atomtype 367Atomtype 368Atomtype 369Atomtype 370Atomtype 371Atomtype 372Atomtype 373Atomtype 374Atomtype 375
+Opening force field file ./charmm36-mar2014-NLG-NLE.ff/merged.rtp
+Residue 1Residue 2Residue 3Residue 4Residue 5Residue 6Residue 7Residue 8Residue 9Residue 10Residue 11Residue 12Residue 13Residue 14Residue 15Residue 16Residue 17Residue 18Residue 19Residue 20Residue 21Residue 22Residue 23Residue 24Residue 25Residue 26Residue 27Residue 28Residue 29Residue 30Residue 31Residue 32Residue 33Residue 34Residue 35Residue 36Residue 37Residue 38Residue 39Residue 40Residue 41Residue 42Residue 43Residue 44Residue 45Residue 46Residue 47Residue 48Residue 49Residue 50Residue 51Residue 52Residue 53Residue 54Residue 55Residue 56Residue 57Residue 58Residue 59Residue 60Residue 61Residue 62Residue 63Residue 64Residue 65Residue 66Residue 67Residue 68Residue 69Residue 70Residue 71Residue 72Residue 73Residue 74Residue 75Residue 76Residue 77Residue 78Residue 79Residue 80Residue 81Residue 82Residue 83Residue 84Residue 85Residue 86Residue 87Residue 88Residue 89Residue 90Residue 91Residue 92Residue 93Residue 94Residue 95Residue 96Residue 97Residue 98Residue 99Residue 100Residue 101Residue 102Residue 103Residue 104Residue 105Residue 106Residue 107Residue 108Residue 109Residue 110Residue 111Residue 112Residue 113Residue 114Residue 115Residue 116Residue 117Residue 118Residue 119Residue 120Residue 121Residue 122Residue 123Residue 124Residue 125Residue 126Residue 127Residue 128Residue 129Residue 130Residue 131Residue 132Residue 133Residue 134Residue 135Residue 136Residue 137Residue 138Residue 139Residue 140Residue 141Residue 142Residue 143Residue 144Residue 145Residue 146Residue 147Residue 148Residue 149Residue 150Residue 151Residue 152Residue 153Residue 154Residue 155Residue 156Residue 157Residue 158Residue 159Residue 160Residue 161Residue 162Residue 163Residue 164Residue 165Residue 166Residue 167Residue 168Residue 169Residue 170Residue 171Residue 172Residue 173Residue 174Residue 175Residue 176Residue 177Residue 178Residue 179Residue 180Residue 181Residue 182Residue 183Residue 184Residue 185Residue 186Residue 187Residue 188Residue 189Residue 190Residue 191Residue 192Residue 193Residue 194Residue 195Residue 196Residue 197Residue 198Residue 199Residue 200Residue 201Residue 202Residue 203Residue 204Residue 205Residue 206Residue 207Residue 208Residue 209Residue 210Residue 211Residue 212Residue 213Residue 214Residue 215Residue 216Residue 217Residue 218Residue 219Residue 220Residue 221Residue 222Residue 223Residue 224Residue 225Residue 226Residue 227Residue 228Residue 229Residue 230Residue 231Residue 232Residue 233Residue 234Residue 235Residue 236Residue 237Residue 238Residue 239Residue 240Residue 241Residue 242Residue 243Residue 244Residue 245Residue 246Residue 247Residue 248Residue 249Residue 250Residue 251Residue 252Residue 253Residue 254Residue 255Residue 256Residue 257Residue 258Residue 259Residue 260Residue 261Residue 262Residue 263Residue 264Residue 265Residue 266Residue 267Residue 268Residue 269Residue 270Residue 271Residue 272Residue 273Residue 274Residue 275Residue 276Residue 277Residue 278Residue 279Residue 280Residue 281Residue 282Residue 283Residue 284Residue 285Residue 286Residue 287Residue 288Residue 289Residue 290Residue 291Residue 292Residue 293Residue 294Residue 295Residue 296Residue 297Residue 298Residue 299Residue 300Residue 301Residue 302Residue 303Residue 304Residue 305Residue 306Residue 307Residue 308Residue 309Residue 310Residue 311Residue 312Residue 313Residue 314Residue 315Residue 316Residue 317Residue 318Residue 319Residue 320Residue 321Residue 322Residue 323Residue 324Residue 325Residue 326Residue 327Residue 328Residue 329Residue 330Residue 331Residue 332Residue 333Residue 334Residue 335Residue 336Residue 337Residue 338Residue 339Residue 340Residue 341Residue 342Residue 343Residue 344Residue 345Residue 346Residue 347Residue 348Residue 349Residue 350Residue 351Residue 352Residue 353Residue 354Residue 355Residue 356Residue 357Residue 358Residue 359Residue 360Residue 361Residue 362Residue 363Residue 364Residue 365Residue 366Residue 367Residue 368Residue 369Residue 370Residue 371Residue 372Residue 373Residue 374Residue 375Residue 376Residue 377Residue 378Residue 379Residue 380Residue 381Residue 382Residue 383Residue 384Residue 385Residue 386Residue 387Residue 388Residue 389Residue 390Residue 391Residue 392Residue 393Residue 394Residue 395Residue 396Residue 397Residue 398Residue 399Residue 400Residue 401Residue 402Residue 403Residue 404Residue 405Residue 406Residue 407Residue 408Residue 409Residue 410Residue 411Residue 412Residue 413Residue 414Residue 415Residue 416Residue 417Residue 418Residue 419Residue 420Residue 421Residue 422Residue 423Residue 424Residue 425Residue 426Residue 427Residue 428Residue 429Residue 430Residue 431Residue 432Residue 433Residue 434Residue 435Residue 436Residue 437Residue 438Residue 439Residue 440Residue 441Residue 442Residue 443Residue 444Residue 445Residue 446Residue 447Residue 448Residue 449Residue 450Residue 451Residue 452Residue 453Residue 454Residue 455Residue 456Residue 457Residue 458Residue 459Residue 460Residue 461Residue 462Residue 463Residue 464Residue 465Residue 466Residue 467Residue 468Residue 469Residue 470Residue 471Residue 472Residue 473Residue 474Residue 475Residue 476Residue 477Residue 478Residue 479Residue 480Residue 481Residue 482Residue 483Residue 484Residue 485Residue 486Residue 487Residue 488Residue 489Residue 490Residue 491Residue 492Residue 493Residue 494Residue 495Residue 496Residue 497Residue 498Residue 499Residue 500Residue 501Residue 502Residue 503Residue 504Residue 505Residue 506Residue 507Residue 508Residue 509Residue 510Residue 511Residue 512Residue 513Residue 514Residue 515Residue 516Residue 517Residue 518Residue 519Residue 520Residue 521Residue 522Residue 523Residue 524Residue 525Residue 526Residue 527Residue 528Residue 529Residue 530Residue 531Residue 532Residue 533Residue 534Residue 535Residue 536Residue 537Residue 538Residue 539Residue 540Residue 541Residue 542Residue 543Residue 544Residue 545Residue 546Residue 547Residue 548Residue 549Residue 550Residue 551Residue 552Residue 553Residue 554Residue 555Residue 556Residue 557Residue 558Residue 559Residue 560Residue 561Residue 562Residue 563Residue 564Residue 565Residue 566Residue 567Residue 568Residue 569Residue 570Residue 571Residue 572Residue 573Residue 574Residue 575Residue 576Residue 577Residue 578Residue 579Residue 580Residue 581Residue 582Residue 583Residue 584Residue 585Residue 586Residue 587Residue 588Residue 589Residue 590Residue 591Residue 592Residue 593Residue 594Residue 595Residue 596Residue 597Residue 598Residue 599Residue 600Residue 601Residue 602Residue 603Residue 604Residue 605Residue 606Residue 607Residue 608Residue 609Residue 610Residue 611Residue 612Residue 613Residue 614Residue 615Residue 616Residue 617Residue 618Residue 619Residue 620Residue 621Residue 622Residue 623Residue 624Residue 625Residue 626Residue 627Residue 628Residue 629Residue 630Residue 631Residue 632Residue 633Residue 634Residue 635Residue 636Residue 637Residue 638Residue 639Residue 640Residue 641Residue 642Residue 643Residue 644Residue 645
+Sorting it all out...
+Opening force field file ./charmm36-mar2014-NLG-NLE.ff/merged.hdb
+Opening force field file ./charmm36-mar2014-NLG-NLE.ff/merged.n.tdb
+Opening force field file ./charmm36-mar2014-NLG-NLE.ff/merged.c.tdb
+Analysing hydrogen-bonding network for automated assignment of histidine
+ protonation. 75 donors and 75 acceptors were found.
+There are 106 hydrogen bonds
+Will use HISD for residue 26
+Will use HISE for residue 31
+8 out of 8 lines of specbond.dat converted successfully
+Special Atom Distance matrix:
+                    CYS6    CYS7   CYS11   CYS20   HIS26   CYS28   HIS31
+                    SG41    SG47    SG74   SG152  NE2204   SG220  NE2238
+    CYS7    SG47   0.850
+   CYS11    SG74   0.203   0.936
+   CYS20   SG152   1.243   1.996   1.313
+   HIS26  NE2204   1.016   0.922   0.959   2.167
+   CYS28   SG220   0.846   0.204   0.958   1.944   0.915
+   HIS31  NE2238   0.934   0.607   1.092   1.820   1.119   0.411
+   CYS40   SG310   1.150   1.857   1.247   0.203   2.081   1.795   1.650
+                
+                
+Linking CYS-6 SG-41 and CYS-11 SG-74...
+Linking CYS-7 SG-47 and CYS-28 SG-220...
+Linking CYS-20 SG-152 and CYS-40 SG-310...
+Opening force field file ./charmm36-mar2014-NLG-NLE.ff/merged.arn
+Making bonds...
+Number of bonds was 797, now 797
+Generating angles, dihedrals and pairs...
+Before cleaning: 2081 pairs
+Before cleaning: 2096 dihedrals
+Keeping all generated dihedrals
+Making cmap torsions...
+There are   47 cmap torsion pairs
+There are 2096 dihedrals,  143 impropers, 1428 angles
+          2060 pairs,      797 bonds and     0 virtual sites
+Total mass 5805.606 a.m.u.
+Total charge -2.000 e
+Writing topology
+
+Writing coordinate file...
+
+gcq#327: "I used to be blond and stupid, but now I dyed it black" (Miss Li)
+
+
+Using the Charmm36-mar2014-NLG-NLE force field in directory ./charmm36-mar2014-NLG-NLE.ff
+
+Reading 2KJJpTc36m5.pdb...
+Read 405 atoms
+Analyzing pdb file
+Splitting chemical chains based on TER records or chain id changing.
+
+Merged chains into joint molecule definitions at 1 places.
+
+There are 1 chains and 0 blocks of water and 51 residues with 405 atoms
+
+  chain  #res #atoms
+  1 'A'    51    405  
+
+Reading residue database... (charmm36-mar2014-NLG-NLE)
+Processing chain 1 'A' (405 atoms, 51 residues)
+Identified residue GLY1 as a starting terminus.
+Identified residue ASN21 as a ending terminus.
+Identified residue PHE22 as a starting terminus.
+Identified residue THR51 as a ending terminus.
+Start terminus GLY-1: GLY-NH3+
+End terminus ASN-21: COO-
+Start terminus PHE-22: NH3+
+End terminus THR-51: COO-
+Checking for duplicate atoms....
+Generating any missing hydrogen atoms and/or adding termini.
+Now there are 51 residues with 786 atoms
+		--------- PLEASE NOTE ------------
+You have successfully generated a topology from: 2KJJpTc36m5.pdb.
+The Charmm36-mar2014-NLG-NLE force field and the tip3p water model are used.
+		--------- ETON ESAELP ------------
+GROMACS:    gmx editconf, VERSION 5.0.4
+
+GROMACS is written by:
+Emile Apol         Rossen Apostolov   Herman J.C. Berendsen Par Bjelkmar       
+Aldert van Buuren  Rudi van Drunen    Anton Feenstra     Sebastian Fritsch  
+Gerrit Groenhof    Christoph Junghans Peter Kasson       Carsten Kutzner    
+Per Larsson        Justin A. Lemkul   Magnus Lundborg    Pieter Meulenhoff  
+Erik Marklund      Teemu Murtola      Szilard Pall       Sander Pronk       
+Roland Schulz      Alexey Shvetsov    Michael Shirts     Alfons Sijbers     
+Peter Tieleman     Christian Wennberg Maarten Wolf       
+and the project leaders:
+Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2014, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx editconf, VERSION 5.0.4
+Executable:   /usr/local/gromacs/5.0.4-openmpi-gcc/bin/gmx
+Library dir:  /usr/local/gromacs/5.0.4-openmpi-gcc/share/gromacs/top
+Command line:
+  gmx editconf -f gmx.gro -o newbox.gro -c -d 1.0 -bt cubic -box 5.45 5.45 5.45
+
+
+gcq#173: "Hang On to Your Ego" (F. Black)
+
+Read 786 atoms
+Volume: 21.2473 nm^3, corresponds to roughly 9500 electrons
+No velocities found
+    system size :  2.710  3.222  2.433 (nm)
+    diameter    :  3.287               (nm)
+    center      : -1.988  0.100 -0.291 (nm)
+    box vectors :  2.710  3.223  2.433 (nm)
+    box angles  :  90.00  90.00  90.00 (degrees)
+    box volume  :  21.25               (nm^3)
+    shift       :  4.713  2.625  3.016 (nm)
+new center      :  2.725  2.725  2.725 (nm)
+new box vectors :  5.450  5.450  5.450 (nm)
+new box angles  :  90.00  90.00  90.00 (degrees)
+new box volume  : 161.88               (nm^3)
+GROMACS:    gmx solvate, VERSION 5.0.4
+
+GROMACS is written by:
+Emile Apol         Rossen Apostolov   Herman J.C. Berendsen Par Bjelkmar       
+Aldert van Buuren  Rudi van Drunen    Anton Feenstra     Sebastian Fritsch  
+Gerrit Groenhof    Christoph Junghans Peter Kasson       Carsten Kutzner    
+Per Larsson        Justin A. Lemkul   Magnus Lundborg    Pieter Meulenhoff  
+Erik Marklund      Teemu Murtola      Szilard Pall       Sander Pronk       
+Roland Schulz      Alexey Shvetsov    Michael Shirts     Alfons Sijbers     
+Peter Tieleman     Christian Wennberg Maarten Wolf       
+and the project leaders:
+Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2014, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx solvate, VERSION 5.0.4
+Executable:   /usr/local/gromacs/5.0.4-openmpi-gcc/bin/gmx
+Library dir:  /usr/local/gromacs/5.0.4-openmpi-gcc/share/gromacs/top
+Command line:
+  gmx solvate -cp newbox.gro -o solv.gro -p topol.top -cs spc216.gro
+
+Reading solute configuration
+Georgetown Riga Oslo Madrid Amsterdam Chisinau Stockholm
+Containing 786 atoms in 51 residues
+Initialising inter-atomic distances...
+
+WARNING: Masses and atomic (Van der Waals) radii will be guessed
+         based on residue and atom names, since they could not be
+         definitively assigned from the information in your input
+         files. These guessed numbers might deviate from the mass
+         and radius of the atom type. Please check the output
+         files if necessary.
+
+NOTE: From version 5.0 gmx uses the Van der Waals radii
+from the source below. This means the results may be different
+compared to previous GROMACS versions.
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+A. Bondi
+van der Waals Volumes and Radii
+J. Phys. Chem. 68 (1964) pp. 441-451
+-------- -------- --- Thank You --- -------- --------
+
+Reading solvent configuration
+"216H2O,WATJP01,SPC216,SPC-MODEL,300K,BOX(M)=1.86206NM,WFVG,MAR. 1984"
+solvent configuration contains 648 atoms in 216 residues
+
+Initialising inter-atomic distances...
+Will generate new solvent configuration of 3x3x3 boxes
+Generating configuration
+Sorting configuration
+Found 1 molecule type:
+    SOL (   3 atoms):  5832 residues
+Calculating Overlap...
+box_margin = 0.25992
+Removed 0 atoms that were outside the box
+
+Number of hardware threads detected (16) does not match the number reported by OpenMP (1).
+Consider setting the launch configuration manually!
+
+NOTE: This file uses the deprecated 'group' cutoff_scheme. This will be
+removed in a future release when 'verlet' supports all interaction forms.
+
+Successfully made neighbourlist
+nri = 21458, nrj = 203920
+Checking Protein-Solvent overlap: tested 3695 pairs, removed 753 atoms.
+Checking Solvent-Solvent overlap: tested 31737 pairs, removed 1785 atoms.
+Added 4986 molecules
+Generated solvent containing 14958 atoms in 4986 residues
+Writing generated configuration to solv.gro
+Georgetown Riga Oslo Madrid Amsterdam Chisinau Stockholm
+
+Output configuration contains 15744 atoms in 5037 residues
+Volume                 :     161.879 (nm^3)
+Density                :     984.899 (g/l)
+Number of SOL molecules:   4986   
+
+Processing topology
+
+Back Off! I just backed up topol.top to ./#topol.top.1#
+
+gcq#113: "If You're So Special Why aren't You Dead ?" (The Breeders)
+
+Neighborsearching with a cut-off of 0.3078
+
+Number of hardware threads detected (16) does not match the number reported by OpenMP (1).
+Consider setting the launch configuration manually!
+
+NOTE: This file uses the deprecated 'group' cutoff_scheme. This will be
+removed in a future release when 'verlet' supports all interaction forms.
+
+Table routines are used for coulomb: FALSE
+Table routines are used for vdw:     FALSE
+Cut-off's:   NS: 0.3078   Coulomb: 0.3078   LJ: 0.3078
+System total charge: 0.000
+Potential shift: LJ r^-12: 0.000e+00 r^-6: 0.000e+00, Coulomb -0e+00
+
+Grid: 18 x 18 x 18 cells
+Adding line for 4986 solvent molecules to topology file (topol.top)
+GROMACS:    gmx grompp, VERSION 5.0.4
+
+GROMACS is written by:
+Emile Apol         Rossen Apostolov   Herman J.C. Berendsen Par Bjelkmar       
+Aldert van Buuren  Rudi van Drunen    Anton Feenstra     Sebastian Fritsch  
+Gerrit Groenhof    Christoph Junghans Peter Kasson       Carsten Kutzner    
+Per Larsson        Justin A. Lemkul   Magnus Lundborg    Pieter Meulenhoff  
+Erik Marklund      Teemu Murtola      Szilard Pall       Sander Pronk       
+Roland Schulz      Alexey Shvetsov    Michael Shirts     Alfons Sijbers     
+Peter Tieleman     Christian Wennberg Maarten Wolf       
+and the project leaders:
+Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2014, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx grompp, VERSION 5.0.4
+Executable:   /usr/local/gromacs/5.0.4-openmpi-gcc/bin/gmx
+Library dir:  /usr/local/gromacs/5.0.4-openmpi-gcc/share/gromacs/top
+Command line:
+  gmx grompp -f em.mdp -c solv.gro -p topol.top -po em_ions_out.mdp -o ions.tpr
+
+Ignoring obsolete mdp entry 'title'
+Setting the LD random seed to 3044730346
+Generated 71611 of the 71631 non-bonded parameter combinations
+Generating 1-4 interactions: fudge = 1
+Generated 45719 of the 71631 1-4 parameter combinations
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+NOTE 1 [file topol.top, line 7479]:
+  System has non-zero total charge: -2.000000
+  Total charge should normally be an integer. See
+  http://www.gromacs.org/Documentation/Floating_Point_Arithmetic
+  for discussion on how close it should be to an integer.
+  
+
+
+Removing all charge groups because cutoff-scheme=Verlet
+Number of degrees of freedom in T-Coupling group rest is 32271.00
+Estimate for the relative computational load of the PME mesh part: 0.22
+
+There was 1 note
+
+gcq#110: "I Don't Like Dirt" (The Breeders)
+
+Analysing residue names:
+There are:    51    Protein residues
+There are:  4986      Water residues
+Analysing Protein...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 56x56x56, spacing 0.097 0.097 0.097
+This run will generate roughly 1 Mb of data
+GROMACS:    gmx genion, VERSION 5.0.4
+
+GROMACS is written by:
+Emile Apol         Rossen Apostolov   Herman J.C. Berendsen Par Bjelkmar       
+Aldert van Buuren  Rudi van Drunen    Anton Feenstra     Sebastian Fritsch  
+Gerrit Groenhof    Christoph Junghans Peter Kasson       Carsten Kutzner    
+Per Larsson        Justin A. Lemkul   Magnus Lundborg    Pieter Meulenhoff  
+Erik Marklund      Teemu Murtola      Szilard Pall       Sander Pronk       
+Roland Schulz      Alexey Shvetsov    Michael Shirts     Alfons Sijbers     
+Peter Tieleman     Christian Wennberg Maarten Wolf       
+and the project leaders:
+Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2014, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx genion, VERSION 5.0.4
+Executable:   /usr/local/gromacs/5.0.4-openmpi-gcc/bin/gmx
+Library dir:  /usr/local/gromacs/5.0.4-openmpi-gcc/share/gromacs/top
+Command line:
+  gmx genion -s ions.tpr -o solv_ions.gro -p topol.top -pname NA -pq 1 -np 10 -nname CL -nq -1 -nn 8
+
+Reading file ions.tpr, VERSION 5.0.4 (single precision)
+Reading file ions.tpr, VERSION 5.0.4 (single precision)
+Group     0 (         System) has 15744 elements
+Group     1 (        Protein) has   786 elements
+Group     2 (      Protein-H) has   405 elements
+Group     3 (        C-alpha) has    51 elements
+Group     4 (       Backbone) has   153 elements
+Group     5 (      MainChain) has   202 elements
+Group     6 (   MainChain+Cb) has   249 elements
+Group     7 (    MainChain+H) has   256 elements
+Group     8 (      SideChain) has   530 elements
+Group     9 (    SideChain-H) has   203 elements
+Group    10 (    Prot-Masses) has   786 elements
+Group    11 (    non-Protein) has 14958 elements
+Group    12 (          Water) has 14958 elements
+Group    13 (            SOL) has 14958 elements
+Group    14 (      non-Water) has   786 elements
+Select a group: Number of (3-atomic) solvent molecules: 4986
+
+Back Off! I just backed up topol.top to ./#topol.top.2#
+Replacing solvent molecule 500 (atom 2286) with NA
+Replacing solvent molecule 1387 (atom 4947) with NA
+Replacing solvent molecule 1093 (atom 4065) with NA
+Replacing solvent molecule 4543 (atom 14415) with NA
+Replacing solvent molecule 4642 (atom 14712) with NA
+Replacing solvent molecule 791 (atom 3159) with NA
+Replacing solvent molecule 1652 (atom 5742) with NA
+Replacing solvent molecule 218 (atom 1440) with NA
+Replacing solvent molecule 1019 (atom 3843) with NA
+Replacing solvent molecule 4340 (atom 13806) with NA
+Replacing solvent molecule 839 (atom 3303) with CL
+Replacing solvent molecule 2528 (atom 8370) with CL
+Replacing solvent molecule 2727 (atom 8967) with CL
+Replacing solvent molecule 3618 (atom 11640) with CL
+Replacing solvent molecule 2416 (atom 8034) with CL
+Replacing solvent molecule 2846 (atom 9324) with CL
+Replacing solvent molecule 3669 (atom 11793) with CL
+Replacing solvent molecule 920 (atom 3546) with CL
+
+
+gcq#212: "Engage" (J.L. Picard)
+
+Will try to add 10 NA ions and 8 CL ions.
+Select a continuous group of solvent molecules
+Selected 13: 'SOL'
+
+Processing topology
+Replacing 18 solute molecules in topology file (topol.top)  by 10 NA and 8 CL ions.
+2015-12-16 04:59:22Z Wed
