@@ -66,7 +66,7 @@ Missed in thesis (Australia's National Computational Infrastructure (NCI) also c
 
 This doctoral study was supported by a 3.5 year scholarship from La Trobe (LTUPRS, LTUFRS) and my supervisor made very benevolent support and giving of his time throughout the many years to complete this thesis. This financial support from La Trobe administration and my supervisor and everyone else who has contributed, I am very much grateful for.
 
-However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone feels compelled to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. I may be looking for part-time or full-time employment in this or a related area, please see my Linkedin.
+However the economical aspect for final completion, further article-writing, continuation and development of this research here at Github, has been out of my personal funds. If anyone would like to help economically, co-author or support in any other way, that would be appreciated, please contact me if so. I may be looking for part-time or full-time employment in this or a related area, please see my Linkedin.
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
